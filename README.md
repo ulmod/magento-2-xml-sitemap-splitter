@@ -20,7 +20,7 @@ With Magento 2 XML Sitemap Splitter, you can manually or automatically generate 
 * Support multi-stores
 
 <img src="https://www.ulmod.com/media/ulmod/product_content/umxmlsitspl-gen.png">
-<img src="https://www.ulmod.com/media/ulmod/product_content/umxmlsitspl-gen.png">
+<img src="https://www.ulmod.com/media/ulmod/product_content/umxmlsitspl-split.png">
 
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod

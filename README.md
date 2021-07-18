@@ -10,13 +10,13 @@ With Magento 2 XML Sitemap Splitter, you can manually or automatically generate 
 
 * Generates and splits XML sitemap for CMS pages, products (out of stock, in stock, review) pages, and categories pages
 * Ability  to split sitemaps by maximum number of URLs that can be included in each sitemap file
+* Generate a separate sitemap for mobile devices
 * Ability to include or exclude product images in the sitemap
 * Ability to show/hide product image title, caption, license, and custom license in the sitemap
-* Generate a separate sitemap for mobile devices
 * Daily email notifications of the XML sitemap generated
-* Configure and manage sitemaps in the admin panel. 
 * Generate XML sitemaps via command line (CLI)
 * Generate XML sitemaps automatically via cron job 
+* Configure and manage sitemaps in the admin panel
 * Support multi-stores
 
 <img src="https://www.ulmod.com/media/ulmod/product_content/umxmlsitspl-gen.png">
